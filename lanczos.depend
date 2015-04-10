@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1427313636 source:/home/lorenzo/Copy/MasterBooks/sissa/simulations/lanczos/src/tools.cpp
+	"tools.h"
+	<stdlib.h>
+
+1427313578 /home/lorenzo/Copy/MasterBooks/sissa/simulations/lanczos/include/tools.h
+	<stdlib.h>
+	<armadillo>
+	<time.h>
+
+1427317072 source:/home/lorenzo/Copy/MasterBooks/sissa/simulations/lanczos/main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+	<armadillo>
+	<time.h>
+	"tools.h"
+
